@@ -11,6 +11,46 @@
 		9FDD1CD22B60DCFA00FA5500 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FDD1CD12B60DCFA00FA5500 /* ContentView.swift */; };
 		9FDD1CD42B60DCFB00FA5500 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CD32B60DCFB00FA5500 /* Assets.xcassets */; };
 		9FDD1CD72B60DCFB00FA5500 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CD62B60DCFB00FA5500 /* Preview Assets.xcassets */; };
+		9FDD1D092B60DE7C00FA5500 /* card13.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CDD2B60DE7C00FA5500 /* card13.svg */; };
+		9FDD1D0A2B60DE7C00FA5500 /* card6.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CDE2B60DE7C00FA5500 /* card6.svg */; };
+		9FDD1D0B2B60DE7C00FA5500 /* background-wood-cartoon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CDF2B60DE7C00FA5500 /* background-wood-cartoon.jpg */; };
+		9FDD1D0C2B60DE7C00FA5500 /* card2.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CE02B60DE7C00FA5500 /* card2.svg */; };
+		9FDD1D0D2B60DE7C00FA5500 /* button.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CE12B60DE7C00FA5500 /* button.svg */; };
+		9FDD1D0E2B60DE7C00FA5500 /* card10.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CE22B60DE7C00FA5500 /* card10.svg */; };
+		9FDD1D0F2B60DE7C00FA5500 /* card11.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CE32B60DE7C00FA5500 /* card11.svg */; };
+		9FDD1D102B60DE7C00FA5500 /* card11.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CE52B60DE7C00FA5500 /* card11.svg */; };
+		9FDD1D112B60DE7C00FA5500 /* card10.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CE62B60DE7C00FA5500 /* card10.svg */; };
+		9FDD1D122B60DE7C00FA5500 /* card12.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CE72B60DE7C00FA5500 /* card12.svg */; };
+		9FDD1D132B60DE7C00FA5500 /* card13.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CE82B60DE7C00FA5500 /* card13.svg */; };
+		9FDD1D142B60DE7C00FA5500 /* card8.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CE92B60DE7C00FA5500 /* card8.svg */; };
+		9FDD1D152B60DE7C00FA5500 /* card9.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CEA2B60DE7C00FA5500 /* card9.svg */; };
+		9FDD1D162B60DE7C00FA5500 /* card14.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CEB2B60DE7C00FA5500 /* card14.svg */; };
+		9FDD1D172B60DE7C00FA5500 /* back.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CEC2B60DE7C00FA5500 /* back.svg */; };
+		9FDD1D182B60DE7C00FA5500 /* card7.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CED2B60DE7C00FA5500 /* card7.svg */; };
+		9FDD1D192B60DE7C00FA5500 /* card6.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CEE2B60DE7C00FA5500 /* card6.svg */; };
+		9FDD1D1A2B60DE7C00FA5500 /* card4.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CEF2B60DE7C00FA5500 /* card4.svg */; };
+		9FDD1D1B2B60DE7C00FA5500 /* card5.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CF02B60DE7C00FA5500 /* card5.svg */; };
+		9FDD1D1C2B60DE7C00FA5500 /* card2.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CF12B60DE7C00FA5500 /* card2.svg */; };
+		9FDD1D1D2B60DE7C00FA5500 /* card3.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CF22B60DE7C00FA5500 /* card3.svg */; };
+		9FDD1D1E2B60DE7C00FA5500 /* card5.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CF32B60DE7C00FA5500 /* card5.svg */; };
+		9FDD1D1F2B60DE7C00FA5500 /* logo.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CF42B60DE7C00FA5500 /* logo.svg */; };
+		9FDD1D202B60DE7C00FA5500 /* card4.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CF52B60DE7C00FA5500 /* card4.svg */; };
+		9FDD1D212B60DE7C00FA5500 /* button.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CF72B60DE7C00FA5500 /* button.svg */; };
+		9FDD1D222B60DE7C00FA5500 /* background-wood-cartoon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CF92B60DE7C00FA5500 /* background-wood-cartoon.jpg */; };
+		9FDD1D232B60DE7C00FA5500 /* background-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CFA2B60DE7C00FA5500 /* background-plain.jpg */; };
+		9FDD1D242B60DE7C00FA5500 /* background-wood-grain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CFB2B60DE7C00FA5500 /* background-wood-grain.jpg */; };
+		9FDD1D252B60DE7C00FA5500 /* background-cloth.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CFC2B60DE7C00FA5500 /* background-cloth.jpg */; };
+		9FDD1D262B60DE7C00FA5500 /* back.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CFD2B60DE7C00FA5500 /* back.svg */; };
+		9FDD1D272B60DE7C00FA5500 /* card7.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CFE2B60DE7C00FA5500 /* card7.svg */; };
+		9FDD1D282B60DE7C00FA5500 /* card9.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1CFF2B60DE7C00FA5500 /* card9.svg */; };
+		9FDD1D292B60DE7C00FA5500 /* card3.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1D002B60DE7C00FA5500 /* card3.svg */; };
+		9FDD1D2A2B60DE7C00FA5500 /* card8.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1D012B60DE7C00FA5500 /* card8.svg */; };
+		9FDD1D2B2B60DE7C00FA5500 /* background-cloth.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1D022B60DE7C00FA5500 /* background-cloth.jpg */; };
+		9FDD1D2C2B60DE7C00FA5500 /* background-plain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1D032B60DE7C00FA5500 /* background-plain.jpg */; };
+		9FDD1D2D2B60DE7C00FA5500 /* card12.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1D042B60DE7C00FA5500 /* card12.svg */; };
+		9FDD1D2E2B60DE7C00FA5500 /* card14.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1D052B60DE7C00FA5500 /* card14.svg */; };
+		9FDD1D2F2B60DE7C00FA5500 /* background-wood-grain.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1D062B60DE7C00FA5500 /* background-wood-grain.jpg */; };
+		9FDD1D302B60DE7C00FA5500 /* logo.svg in Resources */ = {isa = PBXBuildFile; fileRef = 9FDD1D082B60DE7C00FA5500 /* logo.svg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +59,46 @@
 		9FDD1CD12B60DCFA00FA5500 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9FDD1CD32B60DCFB00FA5500 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9FDD1CD62B60DCFB00FA5500 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9FDD1CDD2B60DE7C00FA5500 /* card13.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = card13.svg; path = "../../../../../../Downloads/War Card Game Image Assets/Cards/card13.svg"; sourceTree = "<group>"; };
+		9FDD1CDE2B60DE7C00FA5500 /* card6.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = card6.svg; path = "../../../../../../Downloads/War Card Game Image Assets/Cards/card6.svg"; sourceTree = "<group>"; };
+		9FDD1CDF2B60DE7C00FA5500 /* background-wood-cartoon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "background-wood-cartoon.jpg"; path = "../../../../../../Downloads/War Card Game Image Assets/Backgrounds/background-wood-cartoon.jpg"; sourceTree = "<group>"; };
+		9FDD1CE02B60DE7C00FA5500 /* card2.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = card2.svg; path = "../../../../../../Downloads/War Card Game Image Assets/Cards/card2.svg"; sourceTree = "<group>"; };
+		9FDD1CE12B60DE7C00FA5500 /* button.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = button.svg; path = "../../../../../../Downloads/War Card Game Image Assets/Button/button.svg"; sourceTree = "<group>"; };
+		9FDD1CE22B60DE7C00FA5500 /* card10.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = card10.svg; path = "../../../../../../Downloads/War Card Game Image Assets/Cards/card10.svg"; sourceTree = "<group>"; };
+		9FDD1CE32B60DE7C00FA5500 /* card11.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = card11.svg; path = "../../../../../../Downloads/War Card Game Image Assets/Cards/card11.svg"; sourceTree = "<group>"; };
+		9FDD1CE52B60DE7C00FA5500 /* card11.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = card11.svg; sourceTree = "<group>"; };
+		9FDD1CE62B60DE7C00FA5500 /* card10.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = card10.svg; sourceTree = "<group>"; };
+		9FDD1CE72B60DE7C00FA5500 /* card12.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = card12.svg; sourceTree = "<group>"; };
+		9FDD1CE82B60DE7C00FA5500 /* card13.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = card13.svg; sourceTree = "<group>"; };
+		9FDD1CE92B60DE7C00FA5500 /* card8.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = card8.svg; sourceTree = "<group>"; };
+		9FDD1CEA2B60DE7C00FA5500 /* card9.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = card9.svg; sourceTree = "<group>"; };
+		9FDD1CEB2B60DE7C00FA5500 /* card14.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = card14.svg; sourceTree = "<group>"; };
+		9FDD1CEC2B60DE7C00FA5500 /* back.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = back.svg; sourceTree = "<group>"; };
+		9FDD1CED2B60DE7C00FA5500 /* card7.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = card7.svg; sourceTree = "<group>"; };
+		9FDD1CEE2B60DE7C00FA5500 /* card6.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = card6.svg; sourceTree = "<group>"; };
+		9FDD1CEF2B60DE7C00FA5500 /* card4.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = card4.svg; sourceTree = "<group>"; };
+		9FDD1CF02B60DE7C00FA5500 /* card5.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = card5.svg; sourceTree = "<group>"; };
+		9FDD1CF12B60DE7C00FA5500 /* card2.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = card2.svg; sourceTree = "<group>"; };
+		9FDD1CF22B60DE7C00FA5500 /* card3.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = card3.svg; sourceTree = "<group>"; };
+		9FDD1CF32B60DE7C00FA5500 /* card5.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = card5.svg; path = "../../../../../../Downloads/War Card Game Image Assets/Cards/card5.svg"; sourceTree = "<group>"; };
+		9FDD1CF42B60DE7C00FA5500 /* logo.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = logo.svg; path = "../../../../../../Downloads/War Card Game Image Assets/Logo/logo.svg"; sourceTree = "<group>"; };
+		9FDD1CF52B60DE7C00FA5500 /* card4.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = card4.svg; path = "../../../../../../Downloads/War Card Game Image Assets/Cards/card4.svg"; sourceTree = "<group>"; };
+		9FDD1CF72B60DE7C00FA5500 /* button.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = button.svg; sourceTree = "<group>"; };
+		9FDD1CF92B60DE7C00FA5500 /* background-wood-cartoon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "background-wood-cartoon.jpg"; sourceTree = "<group>"; };
+		9FDD1CFA2B60DE7C00FA5500 /* background-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "background-plain.jpg"; sourceTree = "<group>"; };
+		9FDD1CFB2B60DE7C00FA5500 /* background-wood-grain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "background-wood-grain.jpg"; sourceTree = "<group>"; };
+		9FDD1CFC2B60DE7C00FA5500 /* background-cloth.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "background-cloth.jpg"; sourceTree = "<group>"; };
+		9FDD1CFD2B60DE7C00FA5500 /* back.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = back.svg; path = "../../../../../../Downloads/War Card Game Image Assets/Cards/back.svg"; sourceTree = "<group>"; };
+		9FDD1CFE2B60DE7C00FA5500 /* card7.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = card7.svg; path = "../../../../../../Downloads/War Card Game Image Assets/Cards/card7.svg"; sourceTree = "<group>"; };
+		9FDD1CFF2B60DE7C00FA5500 /* card9.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = card9.svg; path = "../../../../../../Downloads/War Card Game Image Assets/Cards/card9.svg"; sourceTree = "<group>"; };
+		9FDD1D002B60DE7C00FA5500 /* card3.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = card3.svg; path = "../../../../../../Downloads/War Card Game Image Assets/Cards/card3.svg"; sourceTree = "<group>"; };
+		9FDD1D012B60DE7C00FA5500 /* card8.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = card8.svg; path = "../../../../../../Downloads/War Card Game Image Assets/Cards/card8.svg"; sourceTree = "<group>"; };
+		9FDD1D022B60DE7C00FA5500 /* background-cloth.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "background-cloth.jpg"; path = "../../../../../../Downloads/War Card Game Image Assets/Backgrounds/background-cloth.jpg"; sourceTree = "<group>"; };
+		9FDD1D032B60DE7C00FA5500 /* background-plain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "background-plain.jpg"; path = "../../../../../../Downloads/War Card Game Image Assets/Backgrounds/background-plain.jpg"; sourceTree = "<group>"; };
+		9FDD1D042B60DE7C00FA5500 /* card12.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = card12.svg; path = "../../../../../../Downloads/War Card Game Image Assets/Cards/card12.svg"; sourceTree = "<group>"; };
+		9FDD1D052B60DE7C00FA5500 /* card14.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = card14.svg; path = "../../../../../../Downloads/War Card Game Image Assets/Cards/card14.svg"; sourceTree = "<group>"; };
+		9FDD1D062B60DE7C00FA5500 /* background-wood-grain.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "background-wood-grain.jpg"; path = "../../../../../../Downloads/War Card Game Image Assets/Backgrounds/background-wood-grain.jpg"; sourceTree = "<group>"; };
+		9FDD1D082B60DE7C00FA5500 /* logo.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = logo.svg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,9 +142,85 @@
 		9FDD1CD52B60DCFB00FA5500 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
+				9FDD1CFD2B60DE7C00FA5500 /* back.svg */,
+				9FDD1D022B60DE7C00FA5500 /* background-cloth.jpg */,
+				9FDD1D032B60DE7C00FA5500 /* background-plain.jpg */,
+				9FDD1CDF2B60DE7C00FA5500 /* background-wood-cartoon.jpg */,
+				9FDD1D062B60DE7C00FA5500 /* background-wood-grain.jpg */,
+				9FDD1CF82B60DE7C00FA5500 /* Backgrounds */,
+				9FDD1CF62B60DE7C00FA5500 /* Button */,
+				9FDD1CE12B60DE7C00FA5500 /* button.svg */,
+				9FDD1CE02B60DE7C00FA5500 /* card2.svg */,
+				9FDD1D002B60DE7C00FA5500 /* card3.svg */,
+				9FDD1CF52B60DE7C00FA5500 /* card4.svg */,
+				9FDD1CF32B60DE7C00FA5500 /* card5.svg */,
+				9FDD1CDE2B60DE7C00FA5500 /* card6.svg */,
+				9FDD1CFE2B60DE7C00FA5500 /* card7.svg */,
+				9FDD1D012B60DE7C00FA5500 /* card8.svg */,
+				9FDD1CFF2B60DE7C00FA5500 /* card9.svg */,
+				9FDD1CE22B60DE7C00FA5500 /* card10.svg */,
+				9FDD1CE32B60DE7C00FA5500 /* card11.svg */,
+				9FDD1D042B60DE7C00FA5500 /* card12.svg */,
+				9FDD1CDD2B60DE7C00FA5500 /* card13.svg */,
+				9FDD1D052B60DE7C00FA5500 /* card14.svg */,
+				9FDD1CE42B60DE7C00FA5500 /* Cards */,
+				9FDD1D072B60DE7C00FA5500 /* Logo */,
+				9FDD1CF42B60DE7C00FA5500 /* logo.svg */,
 				9FDD1CD62B60DCFB00FA5500 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9FDD1CE42B60DE7C00FA5500 /* Cards */ = {
+			isa = PBXGroup;
+			children = (
+				9FDD1CE52B60DE7C00FA5500 /* card11.svg */,
+				9FDD1CE62B60DE7C00FA5500 /* card10.svg */,
+				9FDD1CE72B60DE7C00FA5500 /* card12.svg */,
+				9FDD1CE82B60DE7C00FA5500 /* card13.svg */,
+				9FDD1CE92B60DE7C00FA5500 /* card8.svg */,
+				9FDD1CEA2B60DE7C00FA5500 /* card9.svg */,
+				9FDD1CEB2B60DE7C00FA5500 /* card14.svg */,
+				9FDD1CEC2B60DE7C00FA5500 /* back.svg */,
+				9FDD1CED2B60DE7C00FA5500 /* card7.svg */,
+				9FDD1CEE2B60DE7C00FA5500 /* card6.svg */,
+				9FDD1CEF2B60DE7C00FA5500 /* card4.svg */,
+				9FDD1CF02B60DE7C00FA5500 /* card5.svg */,
+				9FDD1CF12B60DE7C00FA5500 /* card2.svg */,
+				9FDD1CF22B60DE7C00FA5500 /* card3.svg */,
+			);
+			name = Cards;
+			path = "../../../../../../Downloads/War Card Game Image Assets/Cards";
+			sourceTree = "<group>";
+		};
+		9FDD1CF62B60DE7C00FA5500 /* Button */ = {
+			isa = PBXGroup;
+			children = (
+				9FDD1CF72B60DE7C00FA5500 /* button.svg */,
+			);
+			name = Button;
+			path = "../../../../../../Downloads/War Card Game Image Assets/Button";
+			sourceTree = "<group>";
+		};
+		9FDD1CF82B60DE7C00FA5500 /* Backgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				9FDD1CF92B60DE7C00FA5500 /* background-wood-cartoon.jpg */,
+				9FDD1CFA2B60DE7C00FA5500 /* background-plain.jpg */,
+				9FDD1CFB2B60DE7C00FA5500 /* background-wood-grain.jpg */,
+				9FDD1CFC2B60DE7C00FA5500 /* background-cloth.jpg */,
+			);
+			name = Backgrounds;
+			path = "../../../../../../Downloads/War Card Game Image Assets/Backgrounds";
+			sourceTree = "<group>";
+		};
+		9FDD1D072B60DE7C00FA5500 /* Logo */ = {
+			isa = PBXGroup;
+			children = (
+				9FDD1D082B60DE7C00FA5500 /* logo.svg */,
+			);
+			name = Logo;
+			path = "../../../../../../Downloads/War Card Game Image Assets/Logo";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,7 +282,47 @@
 			buildActionMask = 2147483647;
 			files = (
 				9FDD1CD72B60DCFB00FA5500 /* Preview Assets.xcassets in Resources */,
+				9FDD1D1C2B60DE7C00FA5500 /* card2.svg in Resources */,
+				9FDD1D1A2B60DE7C00FA5500 /* card4.svg in Resources */,
+				9FDD1D2B2B60DE7C00FA5500 /* background-cloth.jpg in Resources */,
+				9FDD1D2C2B60DE7C00FA5500 /* background-plain.jpg in Resources */,
+				9FDD1D152B60DE7C00FA5500 /* card9.svg in Resources */,
+				9FDD1D132B60DE7C00FA5500 /* card13.svg in Resources */,
+				9FDD1D0C2B60DE7C00FA5500 /* card2.svg in Resources */,
+				9FDD1D0D2B60DE7C00FA5500 /* button.svg in Resources */,
+				9FDD1D272B60DE7C00FA5500 /* card7.svg in Resources */,
+				9FDD1D222B60DE7C00FA5500 /* background-wood-cartoon.jpg in Resources */,
+				9FDD1D112B60DE7C00FA5500 /* card10.svg in Resources */,
+				9FDD1D1B2B60DE7C00FA5500 /* card5.svg in Resources */,
+				9FDD1D212B60DE7C00FA5500 /* button.svg in Resources */,
+				9FDD1D142B60DE7C00FA5500 /* card8.svg in Resources */,
+				9FDD1D292B60DE7C00FA5500 /* card3.svg in Resources */,
+				9FDD1D172B60DE7C00FA5500 /* back.svg in Resources */,
+				9FDD1D192B60DE7C00FA5500 /* card6.svg in Resources */,
+				9FDD1D252B60DE7C00FA5500 /* background-cloth.jpg in Resources */,
+				9FDD1D302B60DE7C00FA5500 /* logo.svg in Resources */,
+				9FDD1D1F2B60DE7C00FA5500 /* logo.svg in Resources */,
+				9FDD1D2D2B60DE7C00FA5500 /* card12.svg in Resources */,
+				9FDD1D162B60DE7C00FA5500 /* card14.svg in Resources */,
+				9FDD1D282B60DE7C00FA5500 /* card9.svg in Resources */,
+				9FDD1D2E2B60DE7C00FA5500 /* card14.svg in Resources */,
+				9FDD1D0E2B60DE7C00FA5500 /* card10.svg in Resources */,
+				9FDD1D122B60DE7C00FA5500 /* card12.svg in Resources */,
+				9FDD1D1D2B60DE7C00FA5500 /* card3.svg in Resources */,
+				9FDD1D092B60DE7C00FA5500 /* card13.svg in Resources */,
 				9FDD1CD42B60DCFB00FA5500 /* Assets.xcassets in Resources */,
+				9FDD1D2A2B60DE7C00FA5500 /* card8.svg in Resources */,
+				9FDD1D202B60DE7C00FA5500 /* card4.svg in Resources */,
+				9FDD1D262B60DE7C00FA5500 /* back.svg in Resources */,
+				9FDD1D232B60DE7C00FA5500 /* background-plain.jpg in Resources */,
+				9FDD1D0F2B60DE7C00FA5500 /* card11.svg in Resources */,
+				9FDD1D242B60DE7C00FA5500 /* background-wood-grain.jpg in Resources */,
+				9FDD1D0A2B60DE7C00FA5500 /* card6.svg in Resources */,
+				9FDD1D102B60DE7C00FA5500 /* card11.svg in Resources */,
+				9FDD1D182B60DE7C00FA5500 /* card7.svg in Resources */,
+				9FDD1D1E2B60DE7C00FA5500 /* card5.svg in Resources */,
+				9FDD1D0B2B60DE7C00FA5500 /* background-wood-cartoon.jpg in Resources */,
+				9FDD1D2F2B60DE7C00FA5500 /* background-wood-grain.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
